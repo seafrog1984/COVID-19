@@ -6,9 +6,16 @@
 ![CentOS版本](https://img.shields.io/badge/CentOS-7.7-purple.svg)
 ![license](https://img.shields.io/badge/license-MIT-brightgreen.svg)
 
-# 项目简介
+## 项目简介
 
 本项目是本人本科的毕设项目，也是开源的第一个项目，因能力、时间、精力有限，因此项目相对小型，希望随着后续的学习能够开源更好的项目。
+
+## 项目部分截图
+
+![covid19国内模块部分截图](https://qiniuyun.zhanqingheng.com/2020-06-07-18-40-59-202067.png)
+
+![covid19国外模块部分截图](https://qiniuyun.zhanqingheng.com/2020-06-07-18-41-40-202067.png)
+
 
 ## 项目开发背景
 
